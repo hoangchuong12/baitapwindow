@@ -1,0 +1,8 @@
+D:\ltwin\baitap\thaihoangchuong_2121110117\buoi1bai06\bin\Debug\buoi1bai06.exe.config
+D:\ltwin\baitap\thaihoangchuong_2121110117\buoi1bai06\bin\Debug\buoi1bai06.exe
+D:\ltwin\baitap\thaihoangchuong_2121110117\buoi1bai06\bin\Debug\buoi1bai06.pdb
+D:\ltwin\baitap\thaihoangchuong_2121110117\buoi1bai06\obj\Debug\buoi1bai06.csproj.AssemblyReference.cache
+D:\ltwin\baitap\thaihoangchuong_2121110117\buoi1bai06\obj\Debug\buoi1bai06.csproj.SuggestedBindingRedirects.cache
+D:\ltwin\baitap\thaihoangchuong_2121110117\buoi1bai06\obj\Debug\buoi1bai06.csproj.CoreCompileInputs.cache
+D:\ltwin\baitap\thaihoangchuong_2121110117\buoi1bai06\obj\Debug\buoi1bai06.exe
+D:\ltwin\baitap\thaihoangchuong_2121110117\buoi1bai06\obj\Debug\buoi1bai06.pdb
