@@ -1,0 +1,3 @@
+D:\ltwin\baitap\thaihoangchuong_2121110117\buoi2bai3\obj\Debug\buoi2bai3.csproj.AssemblyReference.cache
+D:\ltwin\baitap\thaihoangchuong_2121110117\buoi2bai3\obj\Debug\buoi2bai3.csproj.SuggestedBindingRedirects.cache
+D:\ltwin\baitap\thaihoangchuong_2121110117\buoi2bai3\obj\Debug\buoi2bai3.csproj.CoreCompileInputs.cache

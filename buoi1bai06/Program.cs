@@ -38,7 +38,7 @@ namespace buoi1bai06
                 {
                     double x1 = (-b + Math.Sqrt(delta)) / (2 * a);
                     double x2 = (-b - Math.Sqrt(delta)) / (2 * a);
-                    Console.WriteLine("phuong trinh có 2 nghiem phan biet:");
+                    Console.WriteLine("phuong trinh co 2 nghiem phan biet:");
                     Console.WriteLine($"x1 = {x1}");
                     Console.WriteLine($"x2 = {x2}");
                 }
